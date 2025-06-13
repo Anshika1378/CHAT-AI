@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded',function(){
     const sendBtn = document.getElementById('sendBtn');
 
     const responses = {
-        hello,hi :'hi, how can i assist you?',
+        hello :'hi, how can i assist you?',
         'how are you.': 'I am a robot but i am fine what about you?',
         'What is your name': 'i am AI',
         'AI full form':'Yeah its great question full form is Artificial intelligence',
