@@ -6,10 +6,10 @@ document.addEventListener('DOMContentLoaded',function(){
     const responses = {
         hello :'hi, how can i assist you?',
         'how are you' : 'I am a robot but i am fine what about you?',
-        'What is your name': 'i am AI',
+        'what is your name' : 'i am AI',
         'AI full form':'Yeah its great question full form is Artificial intelligence',
         'thanks':'Most Welcome',
-        Bye: ' Bye ! have a great day',
+        Bye : ' Bye ! have a great day',
         default: "I'm not sure about that. Can you ask something else?",
     };
 
