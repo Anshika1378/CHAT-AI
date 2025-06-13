@@ -4,12 +4,10 @@ document.addEventListener('DOMContentLoaded',function(){
     const sendBtn = document.getElementById('sendBtn');
 
     const responses = {
-        hello :'hi, how can i assist you?',
+        hello,hi :'hi, how can i assist you?',
         'how are you.': 'I am a robot but i am fine what about you?',
-        'Whats your name': 'i am AI',
-        'can you solve a one things': 'Yeah why not! how can i help you?',
-        'can i ask a one question': 'Yeah why not! how can i help you?',
-        'solve this question 2 + 2': 'Its a mathematics question and addition. Here the answer is 4',
+        'What is your name': 'i am AI',
+        'AI full form':'Yeah its great question full form is Artificial intelligence',
         'thanks':'Most Welcome',
         Bye: ' Bye ! have a great day',
         default: "I'm not sure about that. Can you ask something else?",
